@@ -3,7 +3,7 @@
  * @author 	dron
  * @date 	2012-06-28
  */
-var Ucren = require( "lib/ucren" );
+var Ucren = require( "libs/ucren" );
 var timeline = require( "timeline" );
 
 /**

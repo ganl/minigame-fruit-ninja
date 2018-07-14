@@ -7,7 +7,7 @@ var layer = require( "../layer" );
 var maskLayer = layer.getLayer( "mask" );
 	layer = layer.getLayer( "light" );
 
-var Ucren = require( "../lib/ucren" );
+var Ucren = require( "../libs/ucren" );
 var timeline = require( "../timeline" );
 var message = require( "../message" );
 

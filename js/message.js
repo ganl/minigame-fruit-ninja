@@ -4,7 +4,7 @@
  * @date 2012-06-27
  */
 
-var Ucren = require( "lib/ucren" );
+var Ucren = require( "libs/ucren" );
 
 /**
  * send a message

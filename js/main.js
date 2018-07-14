@@ -1,8 +1,8 @@
 var timeline = require( "timeline" );
 var tools = require( "tools" );
 var sence = require( "sence" );
-var Ucren = require( "lib/ucren" );
-var buzz = require( "lib/buzz" );
+var Ucren = require( "libs/ucren" );
+var buzz = require( "libs/buzz" );
 var control = require( "control" );
 var csl = require( "object/console" );
 var message = require( "message" );

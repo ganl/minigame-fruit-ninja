@@ -2,8 +2,8 @@
  * game logic
  */
 var timeline = require( "timeline" );
-var Ucren = require( "lib/ucren" );
-var sound = require( "lib/sound" );
+var Ucren = require( "libs/ucren" );
+var sound = require( "libs/sound" );
 var fruit = require( "factory/fruit" );
 var score = require( "object/score" );
 var message = require( "message" );

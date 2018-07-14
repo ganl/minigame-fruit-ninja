@@ -6,7 +6,7 @@
 
 var layer = require( "../layer" ).getLayer( "fruit" );
 var timeline = require( "../timeline" );
-var Ucren = require( "../lib/ucren" );
+var Ucren = require( "../libs/ucren" );
 
 /*
 raphael.path('M 27,122 Q 9,42 27,21 45,42 27,122')

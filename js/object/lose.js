@@ -1,7 +1,7 @@
 var layer = require( "../layer" );
-var tween = require( "../lib/tween" );
+var tween = require( "../libs/tween" );
 var timeline = require( "../timeline" );
-var Ucren = require( "../lib/ucren" );
+var Ucren = require( "../libs/ucren" );
 var message = require( "../message" );
 
 var anim = tween.exponential.co;

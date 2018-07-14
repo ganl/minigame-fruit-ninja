@@ -1,5 +1,5 @@
 var layer = require( "../layer" );
-var tween = require( "../lib/tween" );
+var tween = require( "../libs/tween" );
 var timeline = require( "../timeline" );
 var message = require( "../message" );
 var state = require( "../state" );

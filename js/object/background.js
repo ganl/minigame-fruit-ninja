@@ -1,4 +1,4 @@
-var Ucren = require( "../lib/ucren" );
+var Ucren = require( "../libs/ucren" );
 var layer = require( "../layer" );
 var timeline = require( "../timeline" );
 var image, time;

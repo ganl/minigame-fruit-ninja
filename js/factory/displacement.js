@@ -1,6 +1,6 @@
 var layer = require( "../layer" );
 var timeline = require( "../timeline" );
-var tween = require( "../lib/tween" );
+var tween = require( "../libs/tween" );
 
 /**
  * 位移类模块模型

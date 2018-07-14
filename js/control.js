@@ -1,4 +1,4 @@
-var Ucren = require( "lib/ucren" );
+var Ucren = require( "libs/ucren" );
 var knife = require( "object/knife" );
 var message = require( "message" );
 var state = require( "state" );

@@ -1,5 +1,5 @@
-var Ucren = require( "lib/ucren" );
-var sound = require( "lib/sound" );
+var Ucren = require( "libs/ucren" );
+var sound = require( "libs/sound" );
 var fruit = require( "factory/fruit" );
 var flash = require( "object/flash" );
 

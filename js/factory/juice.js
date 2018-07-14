@@ -1,10 +1,10 @@
 /**
  * 果汁
  */
-var Ucren = require( "../lib/ucren" );
+var Ucren = require( "../libs/ucren" );
 var layer = require( "../layer" ).getLayer("juice");
 var timeline = require( "../timeline" ).use( "juice" ).init( 10 );
-var tween = require( "../lib/tween" );
+var tween = require( "../libs/tween" );
 var tools = require( "../tools" );
 
 var random = Ucren.randomNumber;

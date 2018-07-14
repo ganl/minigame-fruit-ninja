@@ -4,8 +4,8 @@
 
 var layer = require( "../layer" );
 var timeline = require( "../timeline" ).use( "flash" ).init( 10 );
-var tween = require( "../lib/tween" );
-var sound = require( "../lib/sound" );
+var tween = require( "../libs/tween" );
+var sound = require( "../libs/sound" );
 
 var image, snd, xDiff = 0, yDiff = 0;
 

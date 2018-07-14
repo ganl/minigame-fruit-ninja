@@ -1,8 +1,8 @@
 var layer = require( "../layer" );
-var Ucren = require( "../lib/ucren" );
+var Ucren = require( "../libs/ucren" );
 var timeline = require( "../timeline" ).use( "fruit" ).init( 1 );
 var timeline2 = require( "../timeline" ).use( "fruit-apart" ).init( 1 );
-var tween = require( "../lib/tween" );
+var tween = require( "../libs/tween" );
 var message = require( "../message" );
 var flame = require( "../object/flame" );
 var flash = require( "../object/flash" );
