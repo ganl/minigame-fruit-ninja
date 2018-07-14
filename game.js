@@ -1,6 +1,2 @@
-import './js/libs/weapp-adapter'
-import './js/libs/symbol'
-
-import Main from './js/main'
-
-new Main()
+var weappAdpater = require('./scripts/weapp-adapter');
+var all = require('./scripts/all');
