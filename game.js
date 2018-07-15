@@ -3,5 +3,5 @@
 
 // import './js/main'
 
-var weappAdpater = require('./js/libs/weapp-adapter');
-var all = require('./js/main');
+require('./js/libs/weapp-adapter');
+require('./js/main');

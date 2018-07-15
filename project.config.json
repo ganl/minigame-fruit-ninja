@@ -1,7 +1,10 @@
 {
 	"description": "项目配置文件。",
 	"packOptions": {
-		"ignore": []
+		"ignore": [{
+        "type": "file",
+        "value": "js/libs/raphael-min.js"
+      }]
 	},
 	"setting": {
 		"urlCheck": true,
