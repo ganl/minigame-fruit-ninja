@@ -1,5 +1,5 @@
 ## quickstart
-
+原repo：https://github.com/ChineseDron/fruit-ninja
 ## 源码目录介绍
 ```
 ./js
